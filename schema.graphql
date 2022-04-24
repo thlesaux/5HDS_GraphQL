@@ -1,0 +1,24 @@
+type Query {
+   users:[User]
+   products:[Product]
+}
+
+type User {
+   token:String!
+   firstName:String!
+   lastName:String!
+   role:String
+   created_at:String
+   updated_at:String
+}
+
+type Product {
+   token:String!
+   name:String!
+   description:String
+   price:Int!
+   stock:Int!
+   reference:String!
+   created_at:String
+   updated_at:String
+}

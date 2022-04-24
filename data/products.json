@@ -1,0 +1,102 @@
+[
+  {
+    "token": "a10b5020-7dff-409a-a4c1-4ce9afc302b5",
+    "name": "minim",
+    "description": "Cupidatat qui anim fugiat aute est.",
+    "price": 720.99,
+    "stock": 3,
+    "reference": "62455b2b3bbb6acfe48f61a2",
+    "created_at": "2021-07-16",
+    "updated_at": "2022-03-02"
+  },
+  {
+    "token": "73c20df7-9a9c-444c-b820-08bbbff21859",
+    "name": "fugiat",
+    "description": "Voluptate ex enim aliquip culpa ex duis Lorem est veniam non.",
+    "price": 593.51,
+    "stock": 10,
+    "reference": "62455b2bc5b343fb6a9159f2",
+    "created_at": "2021-07-04",
+    "updated_at": "2022-03-29"
+  },
+  {
+    "token": "ab808904-613f-4d5c-92f6-9b37552173b0",
+    "name": "id",
+    "description": "Ut pariatur tempor incididunt pariatur elit nostrud velit do consequat.",
+    "price": 986.78,
+    "stock": 3,
+    "reference": "62455b2bafa95135f234fc82",
+    "created_at": "2021-12-24",
+    "updated_at": "2022-02-18"
+  },
+  {
+    "token": "03fc1b58-90e2-477f-9206-22e84f54fb46",
+    "name": "tempor",
+    "description": "Nulla est nulla laborum tempor ea mollit mollit duis.",
+    "price": 183.1,
+    "stock": 3,
+    "reference": "62455b2b6fb0993e8106257a",
+    "created_at": "2021-04-10",
+    "updated_at": "2022-03-20"
+  },
+  {
+    "token": "8d5493d6-3a76-452e-99a0-0755a367b004",
+    "name": "enim",
+    "description": "Sunt dolor deserunt Lorem dolore voluptate.",
+    "price": 760.3,
+    "stock": 4,
+    "reference": "62455b2bc19416a9e40e0dcf",
+    "created_at": "2021-07-14",
+    "updated_at": "2022-03-06"
+  },
+  {
+    "token": "c428bb92-ef1c-47ce-965d-163185150c9b",
+    "name": "occaecat",
+    "description": "Deserunt ea enim ullamco do ut consectetur ad magna elit nisi aute proident sit.",
+    "price": 415.71,
+    "stock": 8,
+    "reference": "62455b2ba7bfc42fc111d55b",
+    "created_at": "2021-04-25",
+    "updated_at": "2022-01-16"
+  },
+  {
+    "token": "aec1ed24-90dc-45b8-b328-f30934438754",
+    "name": "commodo",
+    "description": "Occaecat duis cillum amet consequat sint consequat ut aliqua amet enim sit mollit sint.",
+    "price": 352.99,
+    "stock": 3,
+    "reference": "62455b2b06a62719fa9da6f2",
+    "created_at": "2021-02-18",
+    "updated_at": "2022-01-07"
+  },
+  {
+    "token": "ea446007-a180-4bcf-bead-3a3722c92165",
+    "name": "laboris",
+    "description": "Commodo ex nisi minim cillum eu velit reprehenderit.",
+    "price": 490.42,
+    "stock": 8,
+    "reference": "62455b2ba63ce89455216667",
+    "created_at": "2021-08-21",
+    "updated_at": "2022-01-29"
+  },
+  {
+    "token": "ebde3f78-1996-496f-add2-7a2cd48ed086",
+    "name": "proident",
+    "description": "Adipisicing minim et consequat id tempor incididunt quis nostrud in dolore non proident ex.",
+    "price": 352.97,
+    "stock": 10,
+    "reference": "62455b2beb015464d87b73ff",
+    "created_at": "2021-09-16",
+    "updated_at": "2022-01-26"
+  },
+  {
+    "token": "096212a7-7f71-4376-b7ca-dffc8337df2b",
+    "name": "officia",
+    "description": "Nostrud incididunt elit exercitation ullamco reprehenderit veniam eiusmod fugiat irure minim.",
+    "price": 965.94,
+    "stock": 9,
+    "reference": "62459092e26f7fb0df63975c",
+    "created_at": "2022-3-31",
+    "update_at": "2022-3-31"
+  }
+]
