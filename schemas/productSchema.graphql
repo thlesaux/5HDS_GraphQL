@@ -1,0 +1,17 @@
+type Product {
+   id:String!
+   name:String!
+   description:String
+   price:Float!
+   stock:Int!
+   reference:String!
+   created_at:String
+   updated_at:String
+}
+
+input ProductInput {
+   name:String!
+   description:String
+   price:Float!
+   stock:Int!
+}

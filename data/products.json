@@ -1,6 +1,6 @@
 [
   {
-    "token": "a10b5020-7dff-409a-a4c1-4ce9afc302b5",
+    "id": "a10b5020-7dff-409a-a4c1-4ce9afc302b5",
     "name": "minim",
     "description": "Cupidatat qui anim fugiat aute est.",
     "price": 720.99,
@@ -10,7 +10,7 @@
     "updated_at": "2022-03-02"
   },
   {
-    "token": "73c20df7-9a9c-444c-b820-08bbbff21859",
+    "id": "73c20df7-9a9c-444c-b820-08bbbff21859",
     "name": "fugiat",
     "description": "Voluptate ex enim aliquip culpa ex duis Lorem est veniam non.",
     "price": 593.51,
@@ -20,7 +20,7 @@
     "updated_at": "2022-03-29"
   },
   {
-    "token": "ab808904-613f-4d5c-92f6-9b37552173b0",
+    "id": "ab808904-613f-4d5c-92f6-9b37552173b0",
     "name": "id",
     "description": "Ut pariatur tempor incididunt pariatur elit nostrud velit do consequat.",
     "price": 986.78,
@@ -30,7 +30,7 @@
     "updated_at": "2022-02-18"
   },
   {
-    "token": "03fc1b58-90e2-477f-9206-22e84f54fb46",
+    "id": "03fc1b58-90e2-477f-9206-22e84f54fb46",
     "name": "tempor",
     "description": "Nulla est nulla laborum tempor ea mollit mollit duis.",
     "price": 183.1,
@@ -40,7 +40,7 @@
     "updated_at": "2022-03-20"
   },
   {
-    "token": "8d5493d6-3a76-452e-99a0-0755a367b004",
+    "id": "8d5493d6-3a76-452e-99a0-0755a367b004",
     "name": "enim",
     "description": "Sunt dolor deserunt Lorem dolore voluptate.",
     "price": 760.3,
@@ -50,7 +50,7 @@
     "updated_at": "2022-03-06"
   },
   {
-    "token": "c428bb92-ef1c-47ce-965d-163185150c9b",
+    "id": "c428bb92-ef1c-47ce-965d-163185150c9b",
     "name": "occaecat",
     "description": "Deserunt ea enim ullamco do ut consectetur ad magna elit nisi aute proident sit.",
     "price": 415.71,
@@ -60,7 +60,7 @@
     "updated_at": "2022-01-16"
   },
   {
-    "token": "aec1ed24-90dc-45b8-b328-f30934438754",
+    "id": "aec1ed24-90dc-45b8-b328-f30934438754",
     "name": "commodo",
     "description": "Occaecat duis cillum amet consequat sint consequat ut aliqua amet enim sit mollit sint.",
     "price": 352.99,
@@ -70,7 +70,7 @@
     "updated_at": "2022-01-07"
   },
   {
-    "token": "ea446007-a180-4bcf-bead-3a3722c92165",
+    "id": "ea446007-a180-4bcf-bead-3a3722c92165",
     "name": "laboris",
     "description": "Commodo ex nisi minim cillum eu velit reprehenderit.",
     "price": 490.42,
@@ -80,7 +80,7 @@
     "updated_at": "2022-01-29"
   },
   {
-    "token": "ebde3f78-1996-496f-add2-7a2cd48ed086",
+    "id": "ebde3f78-1996-496f-add2-7a2cd48ed086",
     "name": "proident",
     "description": "Adipisicing minim et consequat id tempor incididunt quis nostrud in dolore non proident ex.",
     "price": 352.97,
@@ -90,7 +90,7 @@
     "updated_at": "2022-01-26"
   },
   {
-    "token": "096212a7-7f71-4376-b7ca-dffc8337df2b",
+    "id": "096212a7-7f71-4376-b7ca-dffc8337df2b",
     "name": "officia",
     "description": "Nostrud incididunt elit exercitation ullamco reprehenderit veniam eiusmod fugiat irure minim.",
     "price": 965.94,

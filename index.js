@@ -6,11 +6,21 @@ const port = process.env.PORT || 9000
 const app = express()
 
 const fs = require('fs')
-const typeDefs = fs.readFileSync('./schema.graphql', { encoding: 'utf-8' })
-const resolvers = require('./resolvers')
+
+//Differents schemas for each kind of model
+const typeDefs = fs.readFileSync('./schemas/schema.graphql', { encoding: 'utf-8' })
+const productTypeDefs = fs.readFileSync('./schemas/productSchema.graphql', { encoding: 'utf-8' })
+const userTypeDefs = fs.readFileSync('./schemas/userSchema.graphql', { encoding: 'utf-8' })
+
+//Differents resolvers for each kind of model
+const userResolvers = require('./services/userResolvers')
+const productResolvers = require('./services/productResolvers')
 
 const { makeExecutableSchema } = require('graphql-tools')
-const schema = makeExecutableSchema({ typeDefs, resolvers })
+const schema = makeExecutableSchema({
+    typeDefs: [userTypeDefs, productTypeDefs, typeDefs],
+    resolvers: [userResolvers, productResolvers]
+});
 
 app.use(cors(), bodyParser.json())
 
